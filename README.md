@@ -11,7 +11,7 @@ Este repositório reúne ideias e práticas sobre como transformar problemas rel
 ---
 ## 📚 Conteúdos
 
-1. [Identificando padrões em problemas](01-identificando-padroes.md)
+1. [Identificando padrões em problemas](01-identificando-padroes-de-problemas.md)
 2. [Documentando problemas de forma estruturada](02-documentando-problemas.md)
 3. [Transformando problemas em melhorias](03-transformando-problemas-em-melhorias.md)
 4. [Boas práticas de suporte técnico](04-boas-praticas-de-suporte.md)
