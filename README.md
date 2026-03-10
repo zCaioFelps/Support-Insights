@@ -9,6 +9,14 @@ Quando esses problemas são bem estruturados e analisados, eles deixam de ser ap
 Este repositório reúne ideias e práticas sobre como transformar problemas relatados por usuários em oportunidades de melhoria para sistemas e produtos.
 
 ---
+## 📚 Conteúdos
+
+1. [Identificando padrões em problemas](01-identificando-padroes.md)
+2. [Documentando problemas de forma estruturada](02-documentando-problemas.md)
+3. [Transformando problemas em melhorias](03-transformando-problemas-em-melhorias.md)
+4. [Boas práticas de suporte técnico](04-boas-praticas-de-suporte.md)
+
+---
 
 ## Por que isso é importante
 
