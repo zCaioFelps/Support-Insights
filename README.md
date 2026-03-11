@@ -1,79 +1,96 @@
-# Suporte como Fonte de Insights de Produto
+# Support Insights
 
-Equipes de suporte estão frequentemente no ponto mais próximo dos usuários.
+Support Insights is a knowledge repository about how technical support teams can analyze user problems, document them clearly, and transform recurring issues into opportunities for product improvement.
 
-Por isso, muitas vezes identificam padrões em problemas e dificuldades antes mesmo que outras áreas da empresa percebam.
-
-Quando esses problemas são bem estruturados e analisados, eles deixam de ser apenas chamados de suporte e passam a se tornar **insights valiosos para melhoria de produto**.
-
-Este repositório reúne ideias e práticas sobre como transformar problemas relatados por usuários em oportunidades de melhoria para sistemas e produtos.
-
----
-## 📚 Conteúdos
-
-1. [Identificando padrões em problemas](01-identificando-padroes-de-problemas.md)
-2. [Documentando problemas de forma estruturada](02-documentando-problemas.md)
-3. [Transformando problemas em melhorias](03-transformando-problemas-em-melhorias.md)
-4. [Boas práticas de suporte técnico](04-boas-praticas-de-suporte.md)
+This project explores how support teams can move beyond reactive problem-solving and contribute to continuous product evolution.
 
 ---
 
-## Por que isso é importante
+## 🎯 Objective
 
-Muitos problemas aparecem inicialmente como chamados isolados de suporte.
+The goal of this repository is to organize practical knowledge about how support teams can:
 
-Mas quando analisados em conjunto, podem revelar:
+- identify patterns in user-reported problems  
+- document issues in a structured and useful way  
+- analyze recurring difficulties experienced by users  
+- generate insights that contribute to product improvement  
 
-- Problemas de usabilidade
-- Fluxos confusos no sistema
-- Falta de funcionalidades
-- Comportamentos inesperados do produto
-
-Identificar esses padrões ajuda equipes de produto e desenvolvimento a tomarem decisões melhores.
+Instead of treating support only as incident resolution, this project explores how support can become a **source of learning for product teams**.
 
 ---
 
-## Do problema de suporte ao insight de produto
+## 📚 Contents
 
-Um fluxo útil normalmente segue estes passos:
-
-1. Identificar problemas recorrentes relatados por usuários
-2. Documentar os casos com clareza e contexto
-3. Analisar padrões entre diferentes relatos
-4. Entender a causa raiz do problema
-5. Transformar a observação em melhoria de produto
-
----
-
-## Exemplo de análise de padrão
-
-Em vez de tratar chamados individualmente:
-
-Exemplos:
-Usuário não encontra o botão de confirmação
-Usuário pergunta onde salvar o formulário
-Usuário fecha a página sem finalizar a ação
-
-Quando analisados juntos, esses relatos podem indicar:
-
-> Um problema de usabilidade na interface.
-
-Nesse caso, a solução pode não ser apenas suporte ou treinamento, mas sim **uma melhoria no design do produto**.
+1. [Identifying Patterns in Problems](01-identificando-padroes-de-problemas.md)  
+2. [Documenting Problems in a Structured Way](02-documentando-problemas.md)  
+3. [Transforming Problems into Product Improvements](03-transformando-problemas-em-melhorias.md)  
+4. [Support Best Practices](04-boas-praticas-de-suporte.md)  
+5. [Problem Analysis Checklist](05-checklist-de-analise-de-problemas.md)  
+6. [Support Principles](06-principios-de-suporte.md)
 
 ---
 
-## O papel do suporte na evolução do produto
+## 🧭 How to Read This Repository
 
-Equipes de suporte têm uma posição única para:
+The documents follow a logical progression that reflects how problems are typically analyzed in support environments:
 
-- Observar o comportamento real dos usuários
-- Identificar pontos de fricção recorrentes
-- Levar feedback estruturado para equipes técnicas
+patterns
+↓
+documentation
+↓
+analysis
+↓
+improvement
+↓
+best practices
+↓
+principles
 
-Quando bem organizadas, essas informações ajudam a construir produtos melhores.
+However, each document can also be read independently as a reference.
 
 ---
 
-## Objetivo deste repositório
+## 👥 Who This Repository Is For
 
-Explorar como problemas relatados por usuários podem ser analisados de forma estruturada para contribuir com decisões de produto e melhorias de sistema.
+This repository may be useful for:
+
+- technical support professionals  
+- product teams interested in user feedback  
+- people working at the intersection of **support and product development**  
+- anyone interested in structured problem analysis within software systems  
+
+---
+
+## 📂 Project Structure
+
+You can also explore the full project structure here:
+
+➡️ [Project Structure](PROJECT_STRUCTURE.md)
+
+---
+
+## 🤝 Contributing
+
+Contributions that improve clarity, add examples, or expand the ideas explored in this repository are welcome.
+
+Please read the contribution guidelines before submitting changes:
+
+➡️ [Contributing Guide](CONTRIBUTING.md)
+
+---
+
+## 🔒 Security
+
+If you discover a security-related issue related to the repository, please follow the guidelines described here:
+
+➡️ [Security Policy](SECURITY.md)
+
+---
+
+## 💡 Final Note
+
+Support teams often observe how systems behave in real-world usage before anyone else.
+
+When problems are analyzed carefully, they can reveal insights that help improve both the product and the user experience.
+
+This repository explores that perspective.
