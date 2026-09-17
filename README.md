@@ -4,15 +4,11 @@ Support Insights is a knowledge repository about how technical support teams can
 
 This project explores how support teams can move beyond reactive problem-solving and contribute to continuous product evolution.
 
----
-
 ## 🌍 Language
 
 The main content of this repository is currently written in **Portuguese (Brazil)**.
 
 The README is written in English to make the purpose of the project accessible to a broader audience.
-
----
 
 ## 🎯 Objective
 
@@ -25,8 +21,6 @@ The goal of this repository is to organize practical knowledge about how support
 
 Instead of treating support only as incident resolution, this project explores how support can become a **source of learning for product teams**.
 
----
-
 ## 📚 Contents
 
 1. [Identificando padrões de problemas](01-identificando-padroes-de-problemas.md)  
@@ -35,8 +29,6 @@ Instead of treating support only as incident resolution, this project explores h
 4. [Boas práticas de suporte técnico](04-boas-praticas-de-suporte.md)  
 5. [Checklist de análise de problemas](05-checklist-de-analise-de-problemas.md)  
 6. [Princípios de suporte](06-principios-de-suporte.md)
-
----
 
 ## 🧭 How to Read This Repository
 
@@ -68,8 +60,6 @@ The suggested reading sequence is:
 
 Each document can also be read independently as a reference.
 
----
-
 ## 👥 Who This Repository Is For
 
 This repository may be useful for:
@@ -79,15 +69,11 @@ This repository may be useful for:
 - people working between **support and product development**
 - anyone interested in structured problem analysis within software systems
 
----
-
 ## 📂 Project Structure
 
 You can explore the full repository structure here:
 
 ➡️ [Project Structure](PROJECT_STRUCTURE.md)
-
----
 
 ## 🤝 Contributing
 
@@ -97,15 +83,11 @@ Please read the contribution guidelines before submitting changes:
 
 ➡️ [Contributing Guide](CONTRIBUTING.md)
 
----
-
 ## 🔒 Security
 
 If you discover a security-related issue related to the repository, please follow the guidelines described here:
 
 ➡️ [Security Policy](SECURITY.md)
-
----
 
 ## 💡 Final Note
 
